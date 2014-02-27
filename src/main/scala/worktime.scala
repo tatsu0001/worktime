@@ -34,7 +34,7 @@ object WorkTime {
         println("totalTime: " + opt.total + " h")
         println("currentTime: " + opt.current + " h")
         println("restTime: " + worktimeRest + " h")
-        println("restDays: " + opt.restDays + " h")
+        println("restDays: " + opt.restDays + " days")
         println("worktimeByDay: " + worktimeByDay + " h")
         println("overtimeByDay: " + overtimeByDay + " h")
       }
